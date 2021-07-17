@@ -1,4 +1,3 @@
-```
 #include <bits/stdc++.h>
 typedef long long int LLI;
 
@@ -42,4 +41,3 @@ int main()
 
   return 0;
 }
-```
